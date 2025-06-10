@@ -1,5 +1,5 @@
 <plugin id="zebra-datawedge-integration" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
-  <name>ZebraDataWedgeIntegration</name>
+
   <platform name="android">
     <source-file src="src/android/ZebraReceiver.java" target-dir="src/com/mycompany/zebra" />
     <config-file target="AndroidManifest.xml" parent="/*">
