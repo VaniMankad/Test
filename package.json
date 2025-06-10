@@ -2,12 +2,6 @@
   "name": "zebra-datawedge-integration",
   "version": "1.0.0",
   "description": "General purpose intent shim layer for cordova appliations on Android.  Handles various techniques for sending and receiving intents.",
-  "cordova": {
-    "id": "zebra-datawedge-integration",
-    "platforms": [
-      "android"
-    ]
-  },
   "keywords": [
     "ecosystem:cordova",
 	"cordova-android",
